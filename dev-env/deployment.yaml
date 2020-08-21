@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: hello
-        image: louiskimlevu/nodejs-repo:nodejs-96d9296e
+        image: louiskimlevu/nodejs-repo:nodejs-13ff15a8
         ports:
         - containerPort: 8080
