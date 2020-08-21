@@ -7,8 +7,8 @@ name: CI
 on:
   push:
     branches: [ master ]
-    paths: 
-      - 'app-code/*'
+#    paths: 
+#      - 'app-code/*'
 #   pull_request:
 #     branches: [ master ]
 
